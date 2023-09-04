@@ -14,7 +14,7 @@
    - [VPN: Setup](https://github.com/kavismith/vpn-setup)
    - [VPN: Usage](https://github.com/kavismith/vpn-usage)
 
-- <b>VPN Setup & Usage</b>     
+- <b>Actuve Directory  & Usage</b>     
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
