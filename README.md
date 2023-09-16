@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/kavismith/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kavismith/ticket-create)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kavismith/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kavismith/active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kavismith/azure-network-protocols)
 
 - <b>VPN Setup & Usage</b>
