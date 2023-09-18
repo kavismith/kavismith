@@ -8,13 +8,12 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kavismith/ticket-create)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kavismith/active-directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kavismith/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kavismith/network-protocol)
 
 - <b>VPN Setup & Usage</b>
    - [VPN: Setup](https://github.com/kavismith/vpn-setup)
    - [VPN: Usage](https://github.com/kavismith/vpn-usage)
-
-- <b>Actuve Directory  & Usage</b>     
+ 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
