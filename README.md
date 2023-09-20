@@ -6,9 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/kavismith/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kavismith/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kavismith/ticket-create)
-- <b>Microsoft Azure</b>
+- <b>Micosoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kavismith/active-directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kavismith/network-protocol)
 
 - <b>VPN Setup & Usage</b>
    - [VPN: Setup](https://github.com/kavismith/vpn-setup)
